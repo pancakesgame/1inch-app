@@ -1,0 +1,6 @@
+<svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg" id="aggregation-protocol">
+  <circle cx="4" cy="15" r="2" stroke="currentColor" stroke-width="2"/>
+  <circle cx="12" cy="7" r="3" stroke="currentColor" stroke-width="2"/>
+  <circle cx="12" cy="18" r="2" stroke="currentColor" stroke-width="2"/>
+  <path d="M22 15c0 1.1046-.8954 2-2 2s-2-.8954-2-2 .8954-2 2-2 2 .8954 2 2ZM18.5 13.5 14 9M12 16.2426V10M5.5 13.5 10 9" stroke="currentColor" stroke-width="2"/>
+</svg>
